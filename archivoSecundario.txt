@@ -1,1 +1,1 @@
-texto de archivo secundario
+texto de archivo secundario, cambios por otro editor
